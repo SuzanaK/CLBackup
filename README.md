@@ -29,4 +29,8 @@ brew install pyqt
 pip install simplejson 
 ``` 
 
+You can then start the tool:
+
+```python cl_backup.py```
+
  
